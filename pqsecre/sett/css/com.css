@@ -80,6 +80,15 @@ text-align: center;
 }
 }
 
+.abt{
+  padding:0;
+  margin:0;
+  line-height:1;
+  font-size:15px;
+  text-align: center;
+  color:#ffffff;
+}
+
 .vid-18741 {
 border: 3px solid #dab5e8;
 box-shadow: 0 0 6px 3px rgba(175, 112, 199, 0.33);
